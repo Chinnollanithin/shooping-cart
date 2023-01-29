@@ -1,0 +1,23 @@
+
+.container{
+  margin: 10px 20px 20px;
+  border-radius: 80px;
+  background-color: white;
+  
+}
+
+
+
+.col-sm{
+  padding: 10px;
+  margin: 10px;
+  background: space;
+}
+
+.card-title text{
+  text-align: center;
+}
+
+.card-img-top{
+  border-radius: 5px;
+}
